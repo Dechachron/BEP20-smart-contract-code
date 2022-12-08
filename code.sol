@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: Apache-2.0
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.7;
 
 import "github.com/Dechachron/IBEP20-Interface/blob/main/IBEP20.sol";
